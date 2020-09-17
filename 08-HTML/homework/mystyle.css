@@ -1,0 +1,34 @@
+body {
+    background-image: url('https://get.wallhere.com/photo/1920x1080-px-abstract-ART-backgrounds-digital-grayscale-minimalistic-textures-1483943.jpg');
+}
+
+.divClass {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+#spanId {
+    font-size: 18px;
+    margin: 50px;
+}
+
+#thirdDiv {
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    height: 600px;
+    width: 500px;
+    padding: 50px; 
+    border: 5px solid black;  
+}
+
+ul {
+    list-style-type: none;
+    align-self: flex-start;
+}
+
+img {
+    width: 400px;
+}
